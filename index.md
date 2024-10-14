@@ -1,123 +1,33 @@
 ---
 layout: default
 ---
+# Guía para Compartir Código Online
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Bienvenido a nuestra guía para compartir código online. Aquí aprenderás cómo hacerlo de manera efectiva y segura.
 
-[Link to another page](./another-page.html).
+## Contenido
 
-There should be whitespace between paragraphs.
+1. [Introducción](#introducción)
+2. [Plataformas Populares](#plataformas-populares)
+3. [Buenas Prácticas](#buenas-prácticas)
+4. [Conclusión](#conclusión)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Introducción
 
-# Header 1
+Compartir código es una habilidad esencial para desarrolladores. Esta guía te ayudará a entender las mejores prácticas y las plataformas más populares para hacerlo.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Plataformas Populares
 
-## Header 2
+- **GitHub**: Ideal para proyectos de código abierto.
+- **GitLab**: Ofrece características similares a GitHub con algunas diferencias.
+- **Bitbucket**: Integración con Atlassian y soporte para repositorios privados.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Buenas Prácticas
 
-### Header 3
+- **Documentación**: Asegúrate de que tu código esté bien documentado.
+- **Licencias**: Usa licencias adecuadas para proteger tu trabajo.
+- **Colaboración**: Facilita la colaboración con otros desarrolladores.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Conclusión
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Compartir código puede mejorar tus habilidades y ayudarte a colaborar con otros. Sigue esta guía para empezar.
