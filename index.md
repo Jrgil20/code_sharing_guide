@@ -12,6 +12,7 @@ Bienvenido a nuestra guía para compartir código online. Aquí aprenderás cóm
 - [Herramientas para compartir codigo](#Herramientas-para-compartir-codigo)
   - [Sistemas de control de versiones](#sistemas-de-control-de-versiones)
   - [Snippets de código](#snippets-de-código)
+  - [Compiladores en linea](#compiladores-en-linea)s
 - [Buenas Prácticas](#buenas-prácticas)
 - [Conclusión](#conclusión)
 
@@ -84,6 +85,9 @@ Estas herramientas son más sencillas de usar que los sistemas de control de ver
 - **Privacidad**: Algunas plataformas pueden no ser seguras para datos sensibles.
 - **Colaboración**: No es tan fácil colaborar en un snippet como en un repositorio.
 - **Historial de versiones**: No hay historial de versiones como en los sistemas de control de versiones.
+
+### compiladores en linea
+son herramientas que te permiten compilar y ejecutar tu codigo en linea, sin necesidad de instalar un compilador en tu maquina, ademas de permitirte compartir tu codigo con otros desarrolladores.
 
 
 ## Buenas Prácticas
