@@ -12,7 +12,8 @@ Bienvenido a nuestra guía para compartir código online. Aquí aprenderás cóm
 - [Herramientas para compartir codigo](#Herramientas-para-compartir-codigo)
   - [Sistemas de control de versiones](#sistemas-de-control-de-versiones)
   - [Snippets de código](#snippets-de-código)
-  - [Compiladores en linea](#compiladores-en-linea)s
+  - [Compiladores en linea](#compiladores-en-linea)
+  - [Contenedores y virtualizacion](#contenedores-y-virtualizacion)
 - [Buenas Prácticas](#buenas-prácticas)
 - [Conclusión](#conclusión)
 
@@ -88,6 +89,59 @@ Estas herramientas son más sencillas de usar que los sistemas de control de ver
 
 ### compiladores en linea
 son herramientas que te permiten compilar y ejecutar tu codigo en linea, sin necesidad de instalar un compilador en tu maquina, ademas de permitirte compartir tu codigo con otros desarrolladores.
+
+- **onlinegdb.com**: Compilador en línea para varios lenguajes de programación con soporte para depuración. soporte para proyectos pequeños. y aulas virtuales. ademas de herramientas de aprendizaje
+- **programiz.com**: Herramienta en línea para aprender y practicar programación. con clases en linea y ejercicios.
+- **mycompiler.io**: Compilador en línea para varios lenguajes de programación.
+- **onecompiler.com** : compilador en linea similar a mycompiler.io con una seccion de retos.
+- **techiedelight.com**: Herramienta en línea para aprender y practicar programación. con muchos ejercicios y puedes simular entradas predeterminadas tal como en competencias de programacion.
+- **ideone.com**: Herramienta en línea para compilar y ejecutar código en varios lenguajes de programación con multiples ejemplos.
+- **codechef.con/ide**: el ide de una de las mejores plataformas para practicar programacion competitiva.
+
+#### Uso de compiladores en linea:
+ Herramintas pensadas para compilar y ejecutar codigo en linea, ideal para proyectos pequeños y pruebas rapidas de lenuajes que no tienes instalados en tu maquina.
+
+1. Ir a la plataforma de tu elección. (onlinegdb, programiz, mycompiler, onecompiler, techiedelight, ideone, codechef)
+2. Pegar el codigo en el editor.
+3. Compilar y ejecutar.
+
+#### Ventajas de compiladores en linea
+- **Rápido y sencillo**: No necesitas instalar un compilador en tu maquina.
+- **Compartir enlaces**: Puedes compartir el enlace del codigo con otros.
+- **Privacidad**: Puedes elegir si el codigo es público o privado.
+- **Soporte para multiples lenguajes**: Puedes compilar y ejecutar codigo en varios lenguajes de programacion.
+
+#### Desventajas de compiladores en linea
+- **Limitado**: No es adecuado para proyectos grandes.
+- **Privacidad**: Algunas plataformas pueden no ser seguras para datos sensibles.
+- **Colaboración**: No es tan fácil colaborar en un proyecto como en un repositorio.
+
+### contenedores y virtualizacion
+son herramientas que te permiten crear y gestionar entornos de desarrollo virtualizados, ademas de permitirte compartir tu codigo con otros desarrolladores. muy util para proyectos grandes y complejos.
+
+- **codespaces.dev**: Entorno de desarrollo en línea basado en Visual Studio Code (github/).
+- **idx.dev** : Entorno de desarrollo en linea basado en Visual Studio Code (google).
+- **docker.com**: Herramienta para crear y ejecutar contenedores de software.
+- **vagrantup.com**: Herramienta para crear y gestionar entornos de desarrollo virtualizados.
+- **kubernetes.io**: Plataforma de código abierto para automatizar la implementación, escalado y operación de aplicaciones en contenedores.
+
+#### Uso de contenedores y virtualizacion:
+Herramientas pensadas para proyectos grandes y complejos, con muchas dependencias y configuraciones. que requieren de un entorno de desarrollo limpio y aislado.
+
+1. Crear un entorno de desarrollo virtualizado.
+2. Instalar las dependencias y configuraciones necesarias.
+3. Compartir el entorno con otros desarrolladores.
+
+#### Ventajas de contenedores y virtualizacion
+- **Entorno limpio**: Puedes crear un entorno de desarrollo limpio y aislado.
+- **Reproducibilidad**: Puedes compartir el entorno con otros desarrolladores.
+- **Escalabilidad**: Puedes escalar el entorno según tus necesidades.
+- **Seguridad**: Puedes aislar el entorno de desarrollo de tu maquina.
+
+#### Desventajas de contenedores y virtualizacion
+- **Curva de aprendizaje**: Puede ser complicado para principiantes y intermedios.
+- **Recursos**: Requiere de recursos adicionales para crear y ejecutar los contenedores.
+- **Configuración**: Puede ser complicado configurar los contenedores y entornos virtuales.
 
 
 ## Buenas Prácticas
