@@ -14,7 +14,7 @@ Bienvenido a nuestra guía para compartir código online. Aquí aprenderás cóm
   - [Snippets de código](#snippets-de-código)
   - [Compiladores en linea](#compiladores-en-linea)
   - [Contenedores y virtualizacion](#contenedores-y-virtualizacion)
-- [Buenas Prácticas](#buenas-prácticas)
+- [Diferecias entre las herramientas](#Diferecias-entre-las-herramientas)
 - [Conclusión](#conclusión)
 
 ## Introducción
@@ -144,11 +144,15 @@ Herramientas pensadas para proyectos grandes y complejos, con muchas dependencia
 - **Configuración**: Puede ser complicado configurar los contenedores y entornos virtuales.
 
 
-## Buenas Prácticas
+## Diferecias entre las herramientas
 
-- **Documentación**: Asegúrate de que tu código esté bien documentado.
-- **Licencias**: Usa licencias adecuadas para proteger tu trabajo.
-- **Colaboración**: Facilita la colaboración con otros desarrolladores.
+| Herramienta | Uso | Ventajas | Desventajas |
+| --- | --- | --- | --- |
+| **Sistemas de control de versiones** | Proyectos grandes y colaborativos | Seguimiento de cambios, colaboración, historial de versiones | Necesita una cuenta, curva de aprendizaje, conflicto de versiones |
+| **Snippets de código** | Fragmentos de código rápidos | Rápido y sencillo, compartir enlaces, privacidad | Limitado, privacidad, colaboración, historial de versiones |
+| **Compiladores en linea** | Compilar y ejecutar código en línea | Rápido y sencillo, compartir enlaces, privacidad, soporte para múltiples lenguajes | Limitado, privacidad, colaboración |
+| **Contenedores y virtualización** | Proyectos grandes y complejos | Entorno limpio, reproducibilidad, escalabilidad, seguridad | Curva de aprendizaje, recursos, configuración |
+
 
 ## Conclusión
 
